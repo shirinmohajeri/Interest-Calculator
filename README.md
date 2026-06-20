@@ -125,11 +125,7 @@ This project was built to practice:
 
 Your Name
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/shirinmohajeri
 
 ---
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
