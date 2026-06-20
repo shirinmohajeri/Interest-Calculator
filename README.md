@@ -123,7 +123,7 @@ This project was built to practice:
 
 ## 👨‍💻 Author
 
-Your Name
+Shirin Mohajeri
 
 GitHub: https://github.com/shirinmohajeri
 
